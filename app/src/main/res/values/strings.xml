@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">lab-08</string>
+    <string name="new_item">New</string>
+    <string name="item_save">Save</string>
+    <string name="item_delete">Delete</string>
+    <string name="author_name">Dorohov 214 gr</string>>
+</resources>
